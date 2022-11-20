@@ -1,3 +1,3 @@
 # CC-Homework
 Creative code homework
-Need to review basic principle in order to put them into action
+- Need to review basic principles again in order to best put them into action
